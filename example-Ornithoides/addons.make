@@ -1,0 +1,4 @@
+ofxBoids
+ofxGui
+ofxOrnithoides
+ofxXmlSettings
